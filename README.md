@@ -10,16 +10,16 @@ This project was completed for the last step of the JavaScript Algorithms and Da
 * How to use JavaScript fetch, await, and async to pull data from a public API
 
 ## Check out the website for yourself!
-https://femurbreaker.github.io/fcc-pokedex/
+https://jerryxhu.github.io/fcc-pokedex/
 
-<a href="https://femurbreaker.github.io/fcc-pokedex/" target="_blank">![image of website featuring the pokedex](https://github.com/FemurBreaker/fcc-pokedex/blob/main/img-readme.png?raw=true)</a>
+<a href="https://jerryxhu.github.io/fcc-pokedex/">![image of website featuring the pokedex](https://github.com/FemurBreaker/fcc-pokedex/blob/main/img-readme.png?raw=true)</a>
 
 ## How to install and run this project
 
 The easiest way to see how this project works is to use the GitHub Pages website above and run it on your browser. However, if you want to run source code locally, the easiest way to do so is:
 
 1. Clone this project or download the ZIP file
-2. Run the code on any local server (ex. <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">Live Server</a> for VS Code)
+2. Run the code on any local server (ex. <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> for VS Code)
 
 ## How to tweak this code for your use case
 
