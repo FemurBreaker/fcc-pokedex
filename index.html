@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Online Pokedex</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="main-content">
+      <h1>Pokémon Search App</h1>
+    </header>
+    <div class="pokedex-container">
+      <label for="search-input">Search for Pokémon Name or ID:</label>
+      <div class="form-container">
+        <input
+          type="text number"
+          id="search-input"
+          class="search-input"
+          required
+        />
+        <button id="search-button" class="search-button">Search</button>
+      </div>
+      <div class="screen-container">
+        <div class="nameid-div">
+          <h2 id="pokemon-name"></h2>
+          <h2 id="pokemon-id"></h2>
+        </div>
+        <div class="weightheight-div">
+          <h3 id="weight"></h3>
+          <h3 id="height"></h3>
+        </div>
+        <div class="img-container"></div>
+        <div class="types" id="types"></div>
+      </div>
+      <div class="grid-container">
+        <div class="grid-left">
+          <div class="grid-child-left bold">Base:</div>
+          <div class="grid-child-left">HP:</div>
+          <div class="grid-child-left">Attack:</div>
+          <div class="grid-child-left">Defense:</div>
+          <div class="grid-child-left">Sp. Attack:</div>
+          <div class="grid-child-left">Sp. Defense:</div>
+          <div class="grid-child-left">Speed:</div>
+        </div>
+        <div class="grid-right">
+          <div class="grid-child-right bold">Stats:</div>
+          <div class="grid-child-right"><i id="hp"></i></div>
+          <div class="grid-child-right"><i id="attack"></i></div>
+          <div class="grid-child-right"><i id="defense"></i></div>
+          <div class="grid-child-right"><i id="special-attack"></i></div>
+          <div class="grid-child-right"><i id="special-defense"></i></div>
+          <div class="grid-child-right"><i id="speed"></i></div>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
