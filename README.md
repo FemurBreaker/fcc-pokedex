@@ -1,4 +1,4 @@
-# freeCodeCamp Pokemon Search App (Pokédex) EXAMPLE Template
+# freeCodeCamp Pokemon Search App (Pokédex) EXAMPLE
 
 ## A fully functional and responsive pokédex for freeCodeCamp's JS Course using PokéAPI written in basic HTML, CSS, and JS!
 
@@ -11,7 +11,8 @@ This project was completed for the last step of the JavaScript Algorithms and Da
 
 ## Check out the website for yourself!
 https://femurbreaker.github.io/fcc-pokedex/
-<a href="https://femurbreaker.github.io/fcc-pokedex/">[image of website featuring the pokedex](https://github.com/FemurBreaker/fcc-pokedex/blob/main/img-readme.png?raw=true)</a>
+
+<a href="https://femurbreaker.github.io/fcc-pokedex/">![image of website featuring the pokedex](https://github.com/FemurBreaker/fcc-pokedex/blob/main/img-readme.png?raw=true)</a>
 
 ## How to install and run this project
 
